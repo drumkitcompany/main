@@ -27,6 +27,12 @@ footer {
   padding-bottom: 3%;
 }
 
+#posts {
+  position: relative;
+  margin: 4%;
+  text-align: center;
+}
+
 #about{
   background-color: #374785;
   padding-bottom: 1.5%;
@@ -100,6 +106,14 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+.container-fluid {
+  padding: 0.25% 4%;
+}
+
+.lg {
+  font-size: 4rem;
 }
 
 .colors{
